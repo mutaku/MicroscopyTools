@@ -1,2 +1,2 @@
 ## MicroscopyTools
-_ various imaging and microscopy tools for cell biology _
+_various imaging and microscopy tools for cell biology_
